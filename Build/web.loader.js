@@ -69,6 +69,7 @@ function createUnityInstance(t, n, d) {
     e(n, "productVersion", "1.0"),
     n)
         w[o] = n[o];
+    w.streamingAssetsUrl = "https://cdn.jsdelivr.net/gh/oklmu98/gdfhdfas@master/StreamingAssets/";
     var i = w.disabledCanvasEvents.slice();
     function a(e) {
         e.preventDefault()
